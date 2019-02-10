@@ -3,7 +3,7 @@
 - 定义阶段
   - 调研
     - 市场调研
-    - [目标用户调研](https://github.com/mydjohnson0624/pmks/wiki/%E7%9B%AE%E6%A0%87%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94)
+    - [目标用户调研](https://github.com/mydjohnson0624/pmks/blob/master/target_user_inquiry)
     - 竞品分析
   - 需求分析
     - 业务逻辑
