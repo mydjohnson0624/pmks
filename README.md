@@ -17,7 +17,7 @@
     - 界面布局
     - 用户行为
     - 用户用例
-    - [交互设计](https://github.com/mydjohnson0624/pmks/wiki/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1)
+    - [交互设计](https://github.com/mydjohnson0624/pmks/blob/master/interaction_design)
   - 视觉设计
     - 色彩设计
     - 视觉规范
