@@ -7,7 +7,7 @@
     - 竞品分析
   - 需求分析
     - 业务逻辑
-    - [产品目标](https://github.com/mydjohnson0624/pmks/wiki/%E4%BA%A7%E5%93%81%E7%9B%AE%E6%A0%87)
+    - [产品目标](https://github.com/mydjohnson0624/pmks/blob/master/product_target)
     - [用户需求](https://github.com/mydjohnson0624/pmks/blob/master/userneed)
 
 - 设计阶段
