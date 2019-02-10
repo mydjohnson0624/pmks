@@ -8,7 +8,7 @@
   - 需求分析
     - 业务逻辑
     - [产品目标](https://github.com/mydjohnson0624/pmks/wiki/%E4%BA%A7%E5%93%81%E7%9B%AE%E6%A0%87)
-    - [用户需求](https://github.com/mydjohnson0624/pmks/wiki/%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82)
+    - [用户需求](https://github.com/mydjohnson0624/pmks/blob/master/userneed)
 
 - 设计阶段
   - 原型设计
